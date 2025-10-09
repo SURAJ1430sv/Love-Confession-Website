@@ -24,7 +24,7 @@
 ## 🛠️ **Installation**  
 1. **Clone the repo**  
    ```bash  
-   git clone https://github.com/Aoudumber-Bade/Love-Confession-Website  
+   git clone https://github.com/SURAJ1430sv/Love-Confession-Website  
    ```  
 2. **just open `index.html` in a browser!**  
 
@@ -73,7 +73,7 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 ---
 
 🔗 **Connect with me**:  
-[![Instagram](https://img.shields.io/badge/Follow-%40aoudumber.dev-E4405F?logo=instagram)](https://www.instagram.com/aoudumber.dev/reels/#)  
-[![GitHub](https://img.shields.io/badge/Star-%20%E2%AD%90%EF%B8%8F-white?logo=github)](https://github.com/Aoudumber-Bade)  
+
+[![GitHub](https://img.shields.io/badge/Star-%20%E2%AD%90%EF%B8%8F-white?logo=github)](https://github.com/SURAJ1430sv)  
 
 *"In a world of DMs, I chose DIVs."* 💻❤️  
