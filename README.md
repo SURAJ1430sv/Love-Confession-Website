@@ -14,12 +14,6 @@
 - **Secret Message Page** with a heartfelt letter revealed on clicking the 💌 icon.  
 - **Infinite Heartbeat Counter** (updates every millisecond) labeled "My Heartbeat".  
 
----
-
-## 🚀 **Live Demo**  
-**[Visit the Live Website](https://love-confessss.netlify.app)**
-
----
 
 ## 🛠️ **Installation**  
 1. **Clone the repo**  
